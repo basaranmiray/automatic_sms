@@ -1,0 +1,28 @@
+PODS:
+  - android_alarm_manager (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - sms (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - android_alarm_manager (from `.symlinks/plugins/android_alarm_manager/ios`)
+  - Flutter (from `Flutter`)
+  - sms (from `.symlinks/plugins/sms/ios`)
+
+EXTERNAL SOURCES:
+  android_alarm_manager:
+    :path: ".symlinks/plugins/android_alarm_manager/ios"
+  Flutter:
+    :path: Flutter
+  sms:
+    :path: ".symlinks/plugins/sms/ios"
+
+SPEC CHECKSUMS:
+  android_alarm_manager: 71b3c5bf9590c806be2218c090b4d03aa3a22af6
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  sms: 1e6c3082da09f2a4961d61bc254cc86865993ffd
+
+PODFILE CHECKSUM: 1b66dae606f75376c5f2135a8290850eeb09ae83
+
+COCOAPODS: 1.8.4
